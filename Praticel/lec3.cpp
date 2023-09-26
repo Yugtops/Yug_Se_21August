@@ -1,0 +1,19 @@
+/*
+Syntex:
+(Condition)?exp1:exp2;
+we use printf for printing any statments in our consle
+we use scanf for getting dynamic values or getting values from user 
+*/
+#include<stdio.h>
+void main()
+{
+	int num,num1
+	printf("Enter your num values here :");
+	scanf("%d",num);//& is used for providing address of your variable
+	prinf("Enter your num1 values here :");
+	scanf("%d",&num1);
+	(num>num1)?prinf)("num is gretter then num1 "): ("num1 is gretter then num");
+	
+}
+
+

@@ -1,0 +1,119 @@
+
+1.world wide web-www
+-known as a web
+-is a collection of websites or web pages stored in web servers
+-connected to local computers through the internet
+-these website contain text pages,digital images,audios,videos,etc.
+-users can access the content of these sites from any part
+of the world over the internet using their devices such as computers,
+leptops,cell phones,etc.
+-the WWW,along with internet,enables the retrieval and display of text
+and media to your device.
+
+2.client-servers communication
+1.client "sometimes on"
+-initiates a request to the server when interested.
+-E.g.web brouser on your leptop or cell phone.
+-doesn't communicate directly with other clients.
+-needs to known the server's address.
+
+2.server is "always on"
+-services requests from many client hosts.
+-E.d.web server for the www.example.com web site.
+-doesn't initiate contract with the clients.
+-needs a fixed,well-known address.  
+
+3.SDLC Methodology
+-The "software development life cycle"(SDLC) refers to a methodology with
+clearly defined processes for creating high-quality software.in detail,
+the SDLC methodology focuses on the following phases of software 
+development:
+
+1.Requirement Gathering
+2.Analysis
+3.Designing
+4.Implementation
+5.Testing
+6.Mantenance
+
+4.Analysis & Design Environment 
+-The analysis and design environment is aligned to the planing and analysis
+phases of the SDLC. in this environment,the main processes that take place 
+include carrying out an in-depth examination of the current system and the 
+propose system.the system architeture is also defined and includes development
+the design of the hardware,software and network requirements for the system.
+within this environment,system and business analysts work closely with
+software engineers.
+
+5.The Development Environment 
+-The development environment can also be a physical where development 
+takes place and where software engineers interact.Another example of 
+the development environment is the integrated development environment (IDE).
+The IDE provides a platform where tools and development processes are 
+coordinated in order to provide software engineers a convenient way
+of accessing the resources they require during the development process.
+
+ENVIRONMENTS IN INDUSTRY
+
+3.The common build environment 
+-the common build environment is closely aligned to the development
+phase of the SDLC.in this environment software engineers merge the work done 
+in the development environment.within this environment,software engineers
+build system.these are used to automate the process of software compilation.
+
+4.The testing environment 
+-The test environment is where testing teams evaluate the application/quality.
+program's this also allows computers programmers to find out and solve any
+defects that may interfere with the application's smooth operation or 
+degrade the user experience.
+
+5.THE PRODUCTION ENVIRONMENT
+-When the end-user use a web/mobile application,the program is operating
+on a production server.it's been created in the production environment.
+
+
+1.)Types of programming language:
+-Low-level language is machine-dependent (0s and 1s) programming language.
+the processor runs low-level programming directly withough the need of a 
+compliler or interpreter,so the programs written in low-level language
+can be run very fast.
+-Low-leve language is further divided two parts-
+1.Machine language:
+-machine language is type of low level programming language. it is also called
+as machine code or object code. machine language is easier to read because
+it is normally displayed in binary or hexaadecimal from (base16) from.
+it dose  not require a translator to convrert the programs because computers
+directly understand the machine language programs.
+-The advantage of machine language is that it  helps the programming to 
+excute the programs faster than the high-level programming language.
+
+2.Assembly language:
+-Assemble language (ASM) is also a type of low level programming language
+that is designed for specific processors.it represents the set of instrutions
+in a symbolic and human-understandable from.it uses an assembler to convert
+the assembler to convert the assembly language to machine language.
+
+The advantage of assembly language is that it requires less memory and 
+less execution time to execute program.
+
+2.) HIGH-LEVEL PROGRAMMING LANGUAGE:
+-High-level programming language (HLL) is designed for developing users
+friendly software programs and websites. this programming language requires
+a compiler or interpreter to translate the program into machine language
+(execute the program).
+
+-the main advantage of high level language is that it is easy to read,
+write,and maintain.
+-high-level programming language inludes PYTHON,JAVA,JAVA-SCRIPT,PHP,C#,
+C++,OBJEVCTIVE C,COBOL,PERL,
+
+
+
+
+
+
+
+
+
+ 
+ 
